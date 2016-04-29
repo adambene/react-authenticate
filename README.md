@@ -2,6 +2,12 @@
 
 Authentication decorator and provider for React JS.
 
+Requires babel with decorator support (see .babelrc and devDependencies).
+
+## Example
+
+[Example using with React](https://github.com/adambene/react-authenticate-example)
+
 ## Usage
 
 Can be used with react-router or redux-router.
