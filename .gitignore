@@ -3,3 +3,4 @@ npm-debug.log
 react/dist
 bundle.*
 nohup.out
+lib/

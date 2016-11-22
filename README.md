@@ -41,3 +41,12 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+
+# Changelog
+
+## 2016-11-22 v1.0.0
+
+- the react-authenticate NPM package is transpiled to ES5
+- dependencies updated and cleaned up
+- added a test
+- added yarn.lock
